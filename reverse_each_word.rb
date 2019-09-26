@@ -12,7 +12,7 @@
 #   end
 # word
 # end
-
+# above is hard coding it doesn't allow for much diversity.
 
 
 def reverse_each_word(string)
