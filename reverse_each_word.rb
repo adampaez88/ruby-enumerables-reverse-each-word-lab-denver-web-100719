@@ -1,4 +1,4 @@
-
+# wrong
 # def reverse_each_word(string)
 #   word = ""
 #  array = %w(Hello there, and how are you?)
@@ -27,3 +27,4 @@ def reverse_each_word(string)
 
   new_string.join(' ')
 end
+# 
